@@ -14,8 +14,8 @@ make sure you have git installed.
 clone the repository
 
 ```bash
-git clone https://github.com/fayaz-modz/minimal-arch-rice
-cd minimal-arch-rice
+git clone https://github.com/saicharan-bhuthkuri/termux-setup.git
+cd termux-setup
 ```
 
 run the setup
